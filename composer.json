@@ -1,0 +1,39 @@
+{
+    "name": "ilhadocaos/flsb",
+    "description": "Schema designer & migration generator for laravel & lumen",
+    "version": "1.2.0",
+    "type": "library",
+    "keywords": [
+        "schema",
+        "database",
+        "schema builder",
+        "schema design",
+        "migration generator"
+    ],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tiago",
+            "email": "",
+            "role": "Developer",
+            "homepage": "https://github.com/ilhadocaos"
+        }
+    ],
+    "require": {
+        "ext-zip": "*",
+        "illuminate/filesystem": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*",
+        "illuminate/http": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*",
+        "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*",
+        "league/flysystem": "^1.0",
+        "league/flysystem-ziparchive": "^1.0"
+    },
+    "require-dev": {
+        "phpmd/phpmd": "^2.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Agontuk\\Schema\\": "src/"
+        }
+    }
+}
