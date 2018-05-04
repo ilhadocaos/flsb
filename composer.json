@@ -1,12 +1,11 @@
 {
     "name": "ilhadocaos/flsb",
     "description": "Gerador de Schemas para o Laravel",
-    "version": "1.2.0",
     "type": "library",
     "keywords": [
         "flsb"
     ],
-    "homepage": "",
+    "homepage": "https://github.com/ilhadocaos",
     "license": "MIT",
     "authors": [
         {
