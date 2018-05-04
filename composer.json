@@ -1,14 +1,10 @@
 {
     "name": "ilhadocaos/flsb",
-    "description": "Schema designer & migration generator for laravel & lumen",
+    "description": "Gerador de Schemas para o Laravel",
     "version": "1.2.0",
     "type": "library",
     "keywords": [
-        "schema",
-        "database",
-        "schema builder",
-        "schema design",
-        "migration generator"
+        "flsb"
     ],
     "homepage": "",
     "license": "MIT",
