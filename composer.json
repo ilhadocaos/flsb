@@ -6,7 +6,7 @@
     "keywords": [
         "flsb"
     ],
-    "homepage": "",
+    "homepage": "https://github.com/ilhadocaos",
     "license": "MIT",
     "authors": [
         {
@@ -29,7 +29,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Agontuk\\Schema\\": "src/"
+            "flsb\\Schema\\": "src/"
         }
     }
 }
